@@ -27,6 +27,8 @@ Billet merupakan aplikasi yang berfungsi untuk melakukan pembelian tiket secara 
 
 4.	Keluar Program
     * Input angka 4 pada pilihan menu untuk keluar dari program
-### C. Contoh Output
+### C. Class Diagram
+![Class Diagram](https://drive.google.com/file/d/10OvJcgANRvMdbk36I4uIY7r9peEIkq0P/view?usp=sharing)
+### D. Contoh Output
 ### Link Youtube
 
