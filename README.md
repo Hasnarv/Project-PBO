@@ -10,7 +10,7 @@ Billet merupakan aplikasi yang berfungsi untuk melakukan pembelian tiket secara 
 1.	Masuk Menu Lihat Jadwal
     * Saat masuk Aplikasi Billet disuguhkan empat menu, pertama pilih menu no 1  yaitu lihat jadwal. Input angka 1 untuk masuk ke menu lihat jadwal. 
     * Di dalam menu lihat jadwal terdapat pilihan jadwal konser hari ini dan jadwal film hari ini. 
-* Pilih sesuai kebutuhan anda, jika ingin memilih jadwal konser maka input angka 1 sedangkan jika ingin memilih jadwal film maka input angka 2. 
+      * Pilih sesuai kebutuhan anda, jika ingin memilih jadwal konser maka input angka 1 sedangkan jika ingin memilih jadwal film maka input angka 2. 
 * Setelah masuk ke jadwal konser atau film termuat informasi mengenai kode tiket nama,konser/film,lokasi, tanggal dan waktu. 
 * Tentukan pilihan dengan mengingat kode tiket. 
 
