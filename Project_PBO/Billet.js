@@ -229,6 +229,6 @@ while (loop == true) {
     default :
       //Jika pilihan tidak sesuai
       console.log("\nMasukan Pilihan Yang Sesuai\n");
-      break;  
+      break;
   }
 }
