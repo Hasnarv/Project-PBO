@@ -1,9 +1,9 @@
 # Project-PBO Kelompok 8
 ## Aplikasi : Billet (Pembelian Tiket Online)
-Team Produksi : 
-* Alya Aulia Hanafi  (19104004)
-* Naseh Hibban         (19104003)
-* Hasna Violina        (19104045)
+Team Produksi :
+* 19104003 - Naseh Hibban
+* 19104004 - Alya Aulia Hanafi
+* 19104045 - Hasna Rizki Violina
 ### A. Gambaran Umum Aplikasi Billet
 Billet merupakan aplikasi yang berfungsi untuk melakukan pembelian tiket secara online. Jenis tiket yang dijual adalah tiket bioskop dan tiket konser. Di dalam aplikasi tersedia beberapa informasi seperti jadwal konser dan bioskop dan juga harga tiket. Pada tiket juga tercantum lengkap dari kode tiket, nama, lokasi tanggal, dan waktu konser atau tayangan bioskop. Fitur di aplikasi Billet adalah pembelian tiket secara online.
 ### B. Tutorial Penggunaan
@@ -25,5 +25,6 @@ Billet merupakan aplikasi yang berfungsi untuk melakukan pembelian tiket secara 
     * Di dalam detail pembelian termuat informasi data diri anda yang telah diinputkan, kode tiket yang anda pilih, harga tiket serta ID pembayaran.
 
 4.	Keluar Program
+    * Input angka 4 pada pilihan menu untuk keluar dari program
 ### Link Youtube
 
