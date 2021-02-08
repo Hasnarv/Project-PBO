@@ -1,6 +1,6 @@
 # Project PBO Kelompok 8
-## Aplikasi : Billet (Pembelian Tiket Online)
-Kelas : S1 SE-03-A <hr>
+**Aplikasi : Billet (Pembelian Tiket Online)** <hr>
+**Kelas : S1 SE-03-A** <hr>
 Team Produksi :
 * 19104003 - Naseh Hibban
 * 19104004 - Alya Aulia Hanafi
