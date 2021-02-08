@@ -1,5 +1,5 @@
 # Project-PBO Kelompok 8
-Nama Aplikasi : Billet
+## Aplikasi : Billet (Pembelian Tiket Online)
 Team produksi : 
 * Alya Aulia Hanafi  (19104004)
 * Naseh Hibban       (19104003)
