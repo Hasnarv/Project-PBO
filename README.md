@@ -30,5 +30,22 @@ Billet merupakan aplikasi yang berfungsi untuk melakukan pembelian tiket secara 
 ### C. Class Diagram
 ![Class Diagram Billet](https://user-images.githubusercontent.com/72425456/107180023-7334f600-6a0a-11eb-8fc3-e18e8698513f.jpeg)
 ### D. Contoh Output
+Menu 1
+![menu 1 1](https://user-images.githubusercontent.com/72425456/107894366-f81b9480-6f61-11eb-8f94-9476d0449bfa.jpeg)
+
+![menu 1 2](https://user-images.githubusercontent.com/72425456/107894384-1c777100-6f62-11eb-9e0b-212af6984ac6.jpeg)
+
+Menu 2
+![menu2](https://user-images.githubusercontent.com/72425456/107894409-2c8f5080-6f62-11eb-8f20-b207787b6629.jpeg)
+
+![menu2 (2)](https://user-images.githubusercontent.com/72425456/107894423-3749e580-6f62-11eb-9c7e-816e0fd26411.jpeg)
+
+![menu2 (3)](https://user-images.githubusercontent.com/72425456/107894434-416be400-6f62-11eb-9e5b-b58484c139b6.jpeg)
+
+Menu 3
+![menu3](https://user-images.githubusercontent.com/72425456/107894461-4c267900-6f62-11eb-8268-3606fa06aae1.jpeg)
+
+Menu 4
+![menu4](https://user-images.githubusercontent.com/72425456/107894486-58aad180-6f62-11eb-988b-22f8d66993d0.jpeg)
 ### Link Youtube
 
