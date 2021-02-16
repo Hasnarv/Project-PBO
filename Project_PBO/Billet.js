@@ -106,7 +106,7 @@ while (loop == true) {
 
       for(let i = 1; i <= jmlBeli; i++){
         //User memilih jenis tiket
-        console.log(" --- Pilih Tiket ---");
+        console.log("\n--- Pilih Tiket ---");
         console.log("1. Konser");
         console.log("2. Film");
 
