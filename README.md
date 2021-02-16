@@ -6,7 +6,7 @@ Team Produksi :
 * 19104004 - Alya Aulia Hanafi
 * 19104045 - Hasna Rizki Violina
 ### A. Latar Belakang
-Menonton baik konser maupun film merupahan hiburan bagi beberapa orang. barbagai ca dilakukan untuk mendapatkan tiketnya baik dengan memesan langsung ke lokasi maupun dengan memesan melalui agen. Namun, proses pemesanan tersebut dirasa kurang efektif baik segi waktu maupun biaya. Untuk itulah perlu adanya proses pemesanan untuk lebih mengefektifkan baik dalam segi waktu ataupun biaya itu sendiri serta lebih memudahkan, lebih praktis dan lebih cepat tentunya dalam melakukan pemesanan tiket. Dengan Kemajuan teknologi, akan lebih praktis jika pemesanan dilakukan secara online melalui smartphone masing-masing.
+Menonton baik konser maupun film merupahan hiburan bagi beberapa orang. Barbagai cara dilakukan untuk mendapatkan tiketnya baik dengan memesan langsung ke lokasi maupun dengan memesan melalui agen. Namun, proses pemesanan tersebut dirasa kurang efektif baik segi waktu maupun biaya. Untuk itulah perlu adanya proses pemesanan untuk lebih mengefektifkan baik dalam segi waktu ataupun biaya itu sendiri serta lebih memudahkan, lebih praktis dan lebih cepat tentunya dalam melakukan pemesanan tiket. Dengan Kemajuan teknologi, akan lebih praktis jika pemesanan dilakukan secara online melalui smartphone masing-masing.
 ### B. Tujuan
 Pembelian tiket secara online ini mempermudah masyarakat untuk memesan tiket dengan lebih efesien
 ### C. Gambaran Umum Aplikasi Billet
